@@ -26,3 +26,4 @@ This is a data exploration project that sets out to uncover the fascinating insi
 ## Project Video
 Check out the video explanation of the project here.
 
+[![Video](https://github.com/SuruchiMandal/IMDB_Data_Insights/blob/main/IMDb%20Data%20Analysis%20Thumbnail.png?raw=true)](https://www.loom.com/share/6805921ed58b49eeb75cc1d95bddec44?sid=e96bbc7a-df26-487a-bdd5-4985dd6677fb)
