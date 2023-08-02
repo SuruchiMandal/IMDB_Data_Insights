@@ -7,7 +7,7 @@ Welcome to my analysis of IMDB Movie, where the magic of cinema🎬 meets the po
 This is a data exploration project that sets out to uncover the fascinating insights and answer some captivating questions:
 - Most profitable movies
 - Top 250 movies
-- Best DIrectors
+- Best Directors
 - Most pouplar genres
 - Critic and Audience-favourite actors
 
