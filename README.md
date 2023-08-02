@@ -21,8 +21,8 @@ This is a data exploration project that sets out to uncover the fascinating insi
 - **datasets/**: Contains the datasets used for analysis.
 - **xlsx/**: Includes the Excel file containing the data analysis, calculations, and visualizations for the project.
 - **docs/**: Provides documentation on the project methodology, analysis and insights.
-- **presentation/**: Includes a slide deck summarizing the project's main findings.
 
+   
 ## Project Video
 Check out the video explanation of the project here.
 
