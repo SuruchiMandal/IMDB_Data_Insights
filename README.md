@@ -25,6 +25,4 @@ This is a data exploration project that sets out to uncover the fascinating insi
 
 ## Project Video
 Check out the video explanation of the project here.
-![Alt Text](https://drive.google.com/file/d/1RFqL_WdXCw9ODSP1kDJlSV2OJbumVRml/view?usp=sharing)
 
-[![Thumbnail](https://www.canva.com/design/DAFqX7yPHOA/9xwjhSqb95nCa5UDPYwNFA/edit?utm_content=DAFqX7yPHOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.loom.com/share/6805921ed58b49eeb75cc1d95bddec44?sid=9f1d469a-1ade-448a-adfb-fa119cc6068e)
